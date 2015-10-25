@@ -1,4 +1,4 @@
-# shells-node-couch
+# shell-node-couch
    A basic NodeJS API shell that uses Couchbase for a NoSQL data store.
 
 ## Running the Project
