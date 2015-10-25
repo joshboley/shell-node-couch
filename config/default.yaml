@@ -1,0 +1,10 @@
+# Place any default configurations here.
+# If you need to add additional environments, just
+# add a new yaml file to the config directory and 
+# pass the name of the file (no file extension) to the 
+# NODE_ENV=<configuration> variable on server startup
+
+port: 8000
+couchbase:
+  connectionString: 'couchbase://127.0.0.1'
+  bucket: 'default'

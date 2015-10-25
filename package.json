@@ -1,0 +1,32 @@
+{
+  "name": "shells-node-couch",
+  "version": "1.0.0",
+  "description": "node-couchbase shell",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshboley/shells-node-couch.git"
+  },
+  "keywords": [
+    "node",
+    "couchbase",
+    "javascript",
+    "nosql"
+  ],
+  "author": "Josh Boley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshboley/shells-node-couch/issues"
+  },
+  "homepage": "https://github.com/joshboley/shells-node-couch#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "config": "^1.16.0",
+    "couchbase": "^2.1.2",
+    "express": "^4.13.3",
+    "js-yaml": "^3.4.3"
+  }
+}
